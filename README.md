@@ -1,0 +1,22 @@
+# 🧮 Calculadora Básica em Java
+
+Este é um projeto simples de **calculadora em Java**, desenvolvido como parte do meu aprendizado dos fundamentos da linguagem. Ele permite realizar operações básicas como **adição, subtração, multiplicação e divisão** entre dois números informados pelo usuário.
+
+## 🚀 Funcionalidades
+
+- ✅ Entrada de dois números via terminal
+- ✅ Escolha da operação desejada (+, -, *, /)
+- ✅ Uso da estrutura `switch` para seleção de operação
+- ✅ Validação de divisão por zero
+- ✅ Exibição clara do resultado final
+
+## 🛠️ Tecnologias Utilizadas
+
+- Java 8+ (ou versão compatível)
+- IDE (IntelliJ, VS Code ou outra de sua preferência)
+
+## 📥 Como Executar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/calculadora-java.git
